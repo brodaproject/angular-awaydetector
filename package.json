@@ -1,0 +1,19 @@
+{
+  "name": "angular-awaydetector",
+  "version": "0.2.0",
+  "subdomain": "brodaproject",
+  "private": true,
+  "author": "raphael.hardt@gmail.com",
+  "description": "Detects if a user is away (or idle) from browser.",
+  "keywords": [
+    "angularjs",
+    "angular",
+    "away",
+    "idle"
+  ],
+  "dependencies": {
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-ngmin": "~0.0.3",
+    "grunt-contrib-clean": "~0.5.0"
+  }
+}

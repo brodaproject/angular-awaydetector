@@ -1,0 +1,29 @@
+{
+  "name": "angular-awaydetector",
+  "version": "0.1.0",
+  "homepage": "https://github.com/brodaproject/angular-awaydetector",
+  "authors": [
+    "Raphael Hardt <raphael.hardt@gmail.com>"
+  ],
+  "description": "Detects if a user is away (or idle) from browser",
+  "main": "./angular-awaydetector.js",
+  "keywords": [
+    "angularjs",
+    "angular",
+    "away",
+    "idle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "CHANGELOG",
+    "README.md",
+    ".gitignore",
+    "Gruntfile.js",
+    "package.json"
+  ]
+}
